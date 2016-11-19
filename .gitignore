@@ -31,3 +31,10 @@
 # Debug files
 *.dSYM/
 *.su
+
+#pebble
+/build/*
+.lock-waf_linux2_build
+
+# emacs
+*.*~
