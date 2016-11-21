@@ -1,12 +1,12 @@
 {
-  "name": "MensaFreiburg",
-  "author": "MakeAwesomeHappen",
+  "name": "Mensa Freiburg",
+  "author": "minils.de",
   "version": "1.0.0",
   "keywords": ["pebble-app"],
   "private": true,
   "dependencies": {},
   "pebble": {
-    "displayName": "MensaFreiburg",
+    "displayName": "Mensa Freiburg",
     "uuid": "b47846ce-0f75-4a11-b653-27ec091f0017",
     "sdkVersion": "3",
     "enableMultiJS": true,
@@ -20,7 +20,17 @@
       "watchface": false
     },
     "messageKeys": [
-      "dummy"
+	"Request",
+	"MondayFood1",
+	"MondayFood2",
+	"TuesdayFood1",
+	"TuesdayFood2",
+	"WednesdayFood1",
+	"WednesdayFood2",
+	"ThursdayFood1",
+	"ThursdayFood2",
+	"FridayFood1",
+	"FridayFood2"
     ],
     "resources": {
       "media": []
